@@ -1,0 +1,49 @@
+.contenu2 {
+  background-image: url("../img/mautic_developer_mautician2.jpg");
+  padding-top: 0.1px;
+  padding-bottom: 40rem;
+  font-size: 18px; }
+  .contenu2 #con2 {
+    position: relative;
+    padding-bottom: 12rem;
+    border-radius: 30px; }
+  .contenu2 h2 {
+    color: #cccfcc;
+    padding-left: 60rem;
+    padding-top: 80px;
+    font-family: inherit;
+    text-decoration: underline; }
+  .contenu2 #same {
+    border-radius: 15px;
+    background: #f0f0f0;
+    width: 23%;
+    float: left;
+    margin: 5rem 1rem 0 9rem;
+    text-align: center;
+    position: relative; }
+  .contenu2 p {
+    margin: 1rem;
+    padding: 3px;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 15px; }
+  .contenu2 h3 {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: #17222e;
+    margin-top: -2px;
+    padding: 1rem;
+    color: #f0f0f0; }
+  .contenu2 button {
+    font-size: 14px;
+    padding: 12px 40px;
+    border-radius: 30px;
+    background-color: #c1c1c1;
+    color: black;
+    border: none;
+    font-family: cursive; }
+    .contenu2 button:hover {
+      background-color: #0d141c;
+      color: white; }
+
+/*# sourceMappingURL=contenu2.css.map */
